@@ -1,0 +1,28 @@
+# Привязка роли Analyst к пользователю BA
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRoleBinding
+metadata:
+  name: analyst-binding-ba
+subjects:
+  - kind: User
+    name: BA
+    apiGroup: rbac.authorization.k8s.io
+roleRef:
+  kind: ClusterRole
+  name: analyst
+  apiGroup: rbac.authorization.k8s.io
+
+---
+# Привязка роли Editor к пользователю Dev
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRoleBinding
+metadata:
+  name: editor-binding-dev
+subjects:
+  - kind: User
+    name: Dev
+    apiGroup: rbac.authorization.k8s.io
+roleRef:
+  kind: ClusterRole
+  name: editor
+  apiGroup: rbac.authorization.k8s.io
