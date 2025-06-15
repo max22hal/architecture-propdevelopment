@@ -1,0 +1,71 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Страница — 1" id="Yip7MJOk9mlzsJxYI5RY">
+    <mxGraphModel dx="1775" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qKJtm4_c4aTnnIV1gB7i-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKJtm4_c4aTnnIV1gB7i-1" target="qKJtm4_c4aTnnIV1gB7i-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qKJtm4_c4aTnnIV1gB7i-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150.005" y="730.0000000000002" as="sourcePoint" />
+            <mxPoint x="150.63" y="889.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKJtm4_c4aTnnIV1gB7i-23" value="Отправляет запросы для&amp;nbsp;&lt;div&gt;работы шлакбаума.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Отправляет данные&amp;nbsp;&lt;/div&gt;&lt;div&gt;для настройки&amp;nbsp;&lt;/div&gt;&lt;div&gt;автоматического&amp;nbsp;&lt;/div&gt;&lt;div&gt;доступа&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qKJtm4_c4aTnnIV1gB7i-21">
+          <mxGeometry x="-0.1961" relative="1" as="geometry">
+            <mxPoint x="-79" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKJtm4_c4aTnnIV1gB7i-1" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;Мобильное приложение для сервисов ЖКУ&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;- оплата ЖКХ&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;- информация от управляющей компании&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;- отслеживание актуального статуса текущего и капитального ремонта&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;- управление &quot;Умным домом&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;- интеллектуальный домофон&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;-интеллектуальный шлакбаум&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#23A2D9;strokeColor=#0E7DAD;" vertex="1" parent="1">
+          <mxGeometry x="40" y="450" width="277.5" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="qKJtm4_c4aTnnIV1gB7i-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKJtm4_c4aTnnIV1gB7i-2" target="qKJtm4_c4aTnnIV1gB7i-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.99999999999977" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKJtm4_c4aTnnIV1gB7i-27" value="Взаимодействует с сервисами,&lt;div&gt;предоставляемыми приложением&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qKJtm4_c4aTnnIV1gB7i-5">
+          <mxGeometry x="-0.2836" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Собственник" c4Type="Person" c4Description="Клиент" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="qKJtm4_c4aTnnIV1gB7i-2">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="80" y="90" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="qKJtm4_c4aTnnIV1gB7i-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.013;exitY=0.429;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="601.1400000000001" y="635.1200000000001" as="sourcePoint" />
+            <mxPoint x="317.5" y="635" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKJtm4_c4aTnnIV1gB7i-9" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;Система интеллектуального домофона&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;&lt;span style=&quot;caret-color: rgb(214, 214, 214); text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;Включает функции классического видеодомофона — открытие по звонку. Также есть возможность распознавать пользователей по биометрии (по лицу) и автоматически открывать дверь, если им разрешён доступ в дом.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="600" y="450" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="qKJtm4_c4aTnnIV1gB7i-11" value="Отправляет данные для&amp;nbsp;&lt;div&gt;настройки доступа,&amp;nbsp;&lt;/div&gt;&lt;div&gt;отправлят запросы на открытие двери&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="460" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qKJtm4_c4aTnnIV1gB7i-13" value="Отправляет уведомления,&amp;nbsp;&lt;div&gt;стримит данные при видео звонках&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="600" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qKJtm4_c4aTnnIV1gB7i-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="890" as="sourcePoint" />
+            <mxPoint x="210" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKJtm4_c4aTnnIV1gB7i-26" value="Отправляет уведомления&amp;nbsp;&lt;div&gt;о работе шлакбаума&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qKJtm4_c4aTnnIV1gB7i-24">
+          <mxGeometry x="0.0357" relative="1" as="geometry">
+            <mxPoint x="70" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKJtm4_c4aTnnIV1gB7i-19" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;Система интеллектуального шлакбаума&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(214, 214, 214); text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;Включает функции классического управления шлагбаумом и автоматически открывает доступ, если распознаёт номера автомобилей, которым въезд разрешён.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="40" y="890" width="280" height="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
